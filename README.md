@@ -102,6 +102,7 @@ We welcome contributions to ExoShare! If you wish to contribute, please fork the
 - Thanks to George Exodus Nayan, Matthias B.E Luogon & other contributors
 
 ## Contact
+## Link to DEMO at (https://exodus.savvy91psinnovates.tech/)
 
 For inquiries, feedback, or collaboration, please contact us at (https://matt.savvy91psinnovates.tech/).
 
