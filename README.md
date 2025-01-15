@@ -17,7 +17,7 @@ ExoShare is an innovative web application that leverages Web Workers to execute 
 
 # Technologies Used
 
-- **Frontend:** React.js
+- **Frontend: React.js
   - Modern JavaScript library for building user interfaces.
   - Flexible component-based architecture.
 
